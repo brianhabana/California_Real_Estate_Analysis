@@ -7,7 +7,7 @@ Filtering viable properties for investments so that a user can determine their R
 
 QUETIONS TO ANSWER:
 
-Who is your audience? Your average Real Estate Investor looking to get into the market with minumimal risk. 
+Who is your audience? Your average Real Estate Investor looking to get into the market with minimal risk. 
 
 What problem to solve? 
 
