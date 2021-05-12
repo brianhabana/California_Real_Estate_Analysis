@@ -13,12 +13,14 @@ What problem to solve?
 Minimizing investment risk in potential real estate investment and maximizing return on investment.
 
 How will app do that?
-
+Visual dashboard where the user can view the market they are interested in and choose the properties they are interested in. 
 
 ----
 
 What are your data sources?
+zillow api 
 
 idea of division of labor?
+each partner will contribute an analysis on a market.
 
 USER STORY
