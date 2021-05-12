@@ -10,6 +10,7 @@ QUETIONS TO ANSWER:
 Who is your audience? Your average Real Estate Investor looking to get into the market with minimal risk. 
 
 What problem to solve? 
+Minimizing investment risk in potential real estate investment and maximizing return on investment.
 
 How will app do that?
 
