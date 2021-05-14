@@ -5,7 +5,7 @@ MVP
 Filtering viable properties for investments so that a user can determine their ROI on an initial investment
 
 
-QUETIONS TO ANSWER:
+QUESTIONS TO ANSWER:
 
 Who is your audience? Your average Real Estate Investor looking to get into the market with minimal risk. 
 
