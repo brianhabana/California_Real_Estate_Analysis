@@ -24,3 +24,9 @@ idea of division of labor?
 each partner will contribute an analysis on a market.
 
 USER STORY
+
+As an user/investor I want to be able to choose and compare homes in any of the 4 cities, so that I may make an educated investment decision
+
+As an user/investor I want to be abel to see both the sold price and the redfin estimate price of a property, so that I could determine potential ROI
+
+As an user/investor I want to be able to see both 
