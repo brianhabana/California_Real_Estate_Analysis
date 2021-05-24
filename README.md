@@ -27,6 +27,8 @@ conda install -c plotly plotly=4.13.
 conda install -c pyviz hvplot
 ```
 
+Final Notebook titled: "Analysis"
+
 * [mapbox](https://www.mapbox.com) Setup an account with mapbox 
 
 ---
