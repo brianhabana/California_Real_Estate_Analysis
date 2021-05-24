@@ -1,32 +1,48 @@
-# California_Real_Estate_Analysis
+# San Francisco Rental Properties Analysis
 
-MVP
+We created an analytical Juptyer Notebook that filters current (May 2021) and viable active foreclosure and sold properties in four Bay Area cities so that a user can make educated decisions when investing in real estate. 
 
-Filtering viable properties for investments so that a user can determine their ROI on an initial investment
+Includes interactive maps, graphs, and visuals to improve UI and customer experience 
+
+## Technologies
+
+This project leverages python 3.7 with the following packages:
+
+* [matplotlib ](https://matplotlib.org) - Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
 
 
-QUESTIONS TO ANSWER:
+* [hvlpot](https://hvplot.holoviz.org) - A high-level plotting API for the PyData ecosystem built on HoloViews.
 
-Who is your audience? Your average Real Estate Investor looking to get into the market with minimal risk. 
 
-What problem to solve? 
-Minimizing investment risk in potential real estate investment and maximizing return on investment.
 
-How will app do that?
-Visual dashboard where the user can view the market they are interested in and choose the properties they are interested in. 
+https://www.mapbox.com
+---
 
-----
+## Installation Guide
 
-What are your data sources?
-zillow api 
+Before running the application first install the following dependencies.
 
-idea of division of labor?
-each partner will contribute an analysis on a market.
+```python
+conda install -c plotly plotly=4.13.
+conda install -c pyviz hvplot
+```
 
-USER STORY
+* [mapbox](https://www.mapbox.com) Setup an account with mapbox 
 
-As an user/investor I want to be able to choose and compare homes in any of the 4 cities, so that I may make an educated investment decision
+---
 
-As an user/investor I want to be abel to see both the sold price and the redfin estimate price of a property, so that I could determine potential ROI
+## Usage
 
-As an user/investor I want to be able to see both 
+This is for research purposes only
+
+---
+
+## Contributors
+
+Clare Collity, Matt Hennis, Miguel Ortega, Brian Habana
+
+---
+
+## License
+
+MIT
